@@ -10,7 +10,7 @@ Runs on Lion, Mountain Lion, Mavericks, Yosemite, and El Capitan.
 [Download latest version (0.8.3)](http://gmask.clockwise.ee/files/gas_mask_0.8.3.zip)
 
 ## Building Gas Mask
-Gas Mask can be built with XCode 7.1.
+Gas Mask can be built with XCode 8.
 
 ## Donating
 If you like Gas Mask, you can show your appreciation by donating via PayPal.
